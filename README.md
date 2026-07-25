@@ -81,5 +81,5 @@ This project is available under the MIT License. See [LICENSE](LICENSE) for deta
 
 ## Author
 
-[Your Name]  
-[Your GitHub profile or preferred professional contact]
+Brady Erickson 
+bradyerickson101@gmail.com

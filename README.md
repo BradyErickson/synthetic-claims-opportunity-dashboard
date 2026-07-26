@@ -2,8 +2,6 @@
 
 An Excel portfolio project demonstrating data consolidation, formula-driven classification, dashboard reporting, linked record-level views, and reconciliation controls using entirely synthetic claims data.
 
-![Dashboard preview](dashboard-preview.png)
-
 ## Project Overview
 
 This project consolidates 560 synthetic claims across five opportunity indicators and 12 fictional claims-analyst views. The workbook includes three dashboard visualizations and independent audit controls for validating claim IDs, source-report totals, indicator distributions, and analyst-level coverage [1].
